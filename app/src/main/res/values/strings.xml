@@ -74,4 +74,9 @@
     <!-- Content Description Strings -->
     <string name="android_map_description">An Android robot with a map</string>
 
+    <!-- Geofence Hints -->
+    <string name="lombard_street_hint">Go to ang mo kio</string>
+    <!-- Geofence Locations -->
+    <string name="lombard_street_location">Ang Mo Kio Street</string>
+
 </resources>
